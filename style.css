@@ -1,5 +1,6 @@
 html {
     font-size: 62.5%;
+    font-family: "Mozilla Headline", Garamaond, serif;
 }
 
 * {
@@ -30,6 +31,7 @@ main {
 
 .boxes-section {
     text-align: center;
+    width: 100%;
 }
 
 .boxes-section > div {
@@ -39,18 +41,18 @@ main {
 
 .box-one {
     height: 150px;
-    width: 150px;
+    width: 25%px;
     background-color: blue;
 }
 
 .box-two {
     height: 150px;
-    width: 150px;
+    width: 30%;
     background-color: aqua;
 }
 
 .box-three {
     height: 150px;
-    width: 150px;
+    width: 45%;
     background-color: red;
 }
